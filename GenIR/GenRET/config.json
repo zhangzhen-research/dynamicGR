@@ -1,0 +1,11 @@
+{
+    "start": 2,
+    "flag": 1,
+    "model_name": "t5-base",
+    "code_num": 512,
+    "max_length": 3,
+    "train_data": "dataset/D0/train.json",
+    "dev_data": "dataset/D0/dev.json",
+    "corpus_data": "dataset/D0/corpus_lite.json",
+    "save_path": "out/model"
+}
